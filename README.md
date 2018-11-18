@@ -10,3 +10,7 @@ Used:
 Instruments used:
 - Unity3d: TextMeshPro, DOTween;
 - Android Studio: Retrofit.
+
+## Projects
+Unity project is located in the root.
+Android Studio project (with full functionality) is located in folder "Bang".
