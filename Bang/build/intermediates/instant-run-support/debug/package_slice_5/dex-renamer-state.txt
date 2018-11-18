@@ -1,4 +1,0 @@
-#Sun Nov 18 03:04:09 EET 2018
-base.0=F\:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\transforms\\dexMerger\\debug\\5
-path.0=classes.dex
-renamed.0=classes.dex
