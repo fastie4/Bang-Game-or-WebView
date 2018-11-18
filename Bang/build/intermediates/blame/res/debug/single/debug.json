@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\layout_activity_launcher.xml.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Workspace\\Games\\Bang\\Bang\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "F:\\Workspace\\Games\\Bang\\Bang\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    }
+]

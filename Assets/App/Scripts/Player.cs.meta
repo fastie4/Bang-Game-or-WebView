@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 01a7b642bb977904da54faf138e1ca66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShootSound: {fileID: 8300000, guid: ec95338e63a2f64478424b08e51fa318, type: 3}
+  - FallSound: {fileID: 8300000, guid: 105cf55aa3b48234eb165f5b9aef7e3e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
